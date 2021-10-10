@@ -7,7 +7,6 @@ quick way to log into multiple toons without inputting username/pass every time
   * os
   * requests
   * time
-  * config
 
 # How To Use
 1. Copy the ```config.py``` and ```launch.py``` files and put them in your ```Toontown Rewritten``` directory (should be same level as phase files, ```Launcher.exe```, and ```TTREngine.exe```)
