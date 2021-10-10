@@ -3,7 +3,7 @@ quick way to log into multiple toons without inputting username/pass every time
 
 # What do you need
 * Python 3.6+ installed
-* python packages (just pip install <<package>> in bash/cmd/PS/etc, but you should have pretty much all of these in the default python install):
+* python packages (just ```pip install [package]``` in bash/cmd/PS/etc, but you should have pretty much all of these in the default python install):
   * os
   * requests
   * time
